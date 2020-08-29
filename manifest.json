@@ -1,0 +1,13 @@
+{
+	"defaultLocale":"en",
+	"identifier": "com.elony314.sortedplugin",
+	"author": "elony314",
+	"description": "Plugin for Sorted3.",
+	"version": "1.0",
+	"actions": [
+		{
+            "identifier": "send2sorted",
+            "image": "app-icon-trans.png"
+		}
+    ]
+}
